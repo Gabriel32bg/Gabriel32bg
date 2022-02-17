@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... develop and program to apps web and desktop apps , rigth know i'm rookie in the programatings, but i'm want learning day to day.
 - 🌱 I’m currently learning ... JavaScript, PHP.
 - 💞️ I’m looking to collaborate on ... web develops.
-- 📫 How to reach me ... gabrielalejabdro27@gmail.com or whatsapp +5519993401109.
+- 📫 How to reach me ... gabrielalejabdro27@gmail.com
 - Contact links click to here -> https://linktr.ee/Gabriel32bg
 
 <!---
